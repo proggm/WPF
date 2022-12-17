@@ -1,0 +1,20 @@
+E:\проекты\работа №1\работа №1\bin\Debug\работа №1.exe.config
+E:\проекты\работа №1\работа №1\bin\Debug\работа №1.exe
+E:\проекты\работа №1\работа №1\bin\Debug\работа №1.pdb
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.csproj.AssemblyReference.cache
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.csproj.SuggestedBindingRedirects.cache
+E:\проекты\работа №1\работа №1\obj\Debug\Views\Window\MainWindow.g.cs
+E:\проекты\работа №1\работа №1\obj\Debug\App.g.cs
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1_MarkupCompile.cache
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1_MarkupCompile.lref
+E:\проекты\работа №1\работа №1\obj\Debug\Views\Window\MainWindow.baml
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.g.resources
+E:\проекты\работа №1\работа №1\obj\Debug\работа__1.Properties.Resources.resources
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.csproj.GenerateResource.cache
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.csproj.CoreCompileInputs.cache
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.exe
+E:\проекты\работа №1\работа №1\obj\Debug\работа №1.pdb
+E:\проекты\работа №1\работа №1\obj\Debug\Views\Pages\FirstPage.g.cs
+E:\проекты\работа №1\работа №1\obj\Debug\Views\Pages\SecondPage.g.cs
+E:\проекты\работа №1\работа №1\obj\Debug\Views\Pages\FirstPage.baml
+E:\проекты\работа №1\работа №1\obj\Debug\Views\Pages\SecondPage.baml
